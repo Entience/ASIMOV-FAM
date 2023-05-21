@@ -1,6 +1,6 @@
 # ASIMOV-FAM
 
-Please check if you have most recent version.
+Please check if you have the most recent version.
 
 **ASIMOV*** is an agent-based simulation of decision-making processes. It provides a fundamental framework for developing artificial animal behavior and cognition through step-wise modifications, where pre-existing circuitry is plausibly modified for changing function and tested, as in natural evolutionary exaptation. ASIMOV contains a cognitive architecture that is based on the behaviors and neuronal circuitry of the simple predatory sea slug Pleurobranchaea californica, and has since been expanded to include more complex behaviors, such as simple aesthetics and addiction dynamics (Gribkova et al., 2020), episodic memory, and spatial navigation.
 
