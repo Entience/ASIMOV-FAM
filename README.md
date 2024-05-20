@@ -9,7 +9,7 @@ ASIMOV has been developed further with the addition of the Feature Association M
 ------------------------------------------------------------------------------------------------------------
 
 For more details please see our [website](https://publish.illinois.edu/slug-city/asimov/) and publication:
-> Gribkova, E. D., Chowdhary, G., & Gillette, R. (2024). Cognitive mapping and episodic memory emerge from simple associative learning rules. _Neurocomputing_, 127812. [https://doi.org/10.1038/s41598-020-66465-0](https://doi.org/10.1016/j.neucom.2024.127812)
+> Gribkova, E. D., Chowdhary, G., & Gillette, R. (2024). Cognitive mapping and episodic memory emerge from simple associative learning rules. _Neurocomputing_, 127812. [https://doi.org/10.1038/s41598-020-66465-0](https://doi.org/10.1016/j.neucom.2024.127812).
 
 
 To run ASIMOV and inspect the code, the multi-agent modeling program NetLogo must be acquired from https://ccl.northwestern.edu/netlogo/.
