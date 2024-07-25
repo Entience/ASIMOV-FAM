@@ -3726,7 +3726,8 @@ Q-Learning:
 
 ASIMOV (short for “Algorithm of Selectivity by Incentive and Motivation for Optimized Valuation”) is an agent-based simulation of decision-making processes. It provides a fundamental framework for developing artificial animal behavior and cognition through step-wise modifications, where pre-existing circuitry is plausibly modified for changing function and tested, as in natural evolutionary exaptation. ASIMOV contains a cognitive architecture that is based on the behaviors and neuronal circuitry of the simple predatory sea slug _Pleurobranchaea californica_, and has since been expanded to include more complex behaviors, such as simple aesthetics and addiction dynamics (Gribkova et al., 2020), episodic memory, and spatial navigation.
 
-
+For more details please see our publication:
+>Gribkova, E. D., Chowdhary, G., & Gillette, R. (2024). Cognitive mapping and episodic memory emerge from simple associative learning rules. _Neurocomputing_, _595_, 127812. https://doi.org/10.1038/s41598-020-66465-0.
 
 ## HOW IT WORKS
 
