@@ -1069,7 +1069,7 @@ to assign-Reward-element
     let cross abs(item i traces) * abs(item j traces) ; 0.01
     let diff abs(item j traces) - abs(item i traces) ; 0.001
     if cross > 0.01[
-      while [k < num_inputs and not post-reward-landmark ][
+      while [k < num_inputs and not post-reward-landmark and matrix:get FAMatrix_vdist i j > 0][
         ifelse matrix:get FAMatrix_rewards i j <= 1 [
           if diff < -0.001 and matrix:get FAMatrix_timelags j k = 0 and matrix:get FAMatrix_rewards j k > 1 [set post-reward-landmark true]
           if diff > 0.001 and matrix:get FAMatrix_timelags i k = 0 and matrix:get FAMatrix_rewards i k > 1 [set post-reward-landmark true]
